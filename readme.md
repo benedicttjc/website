@@ -7,5 +7,5 @@ Go to the top right hand side of the page, click the arrow drop down, click "New
 * * *
 ### Step 2
 Under "Repository name", type your desired website name. At the bottom, press the green "Create repository" button. 
-![Step2](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Capture2.JPG)
+![Step2](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Capture2a.JPG)
 * * *
