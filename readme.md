@@ -45,6 +45,6 @@ Well done! You website is now online. Type {YOUR_GITHUB_USERNAME}.github.io/{YOU
 ### Visit your website
 If you used the Cayman theme and want to design your website, visit [here](https://github.com/pages-themes/cayman/blob/master/index.md).
 
-Follow instructions here to change the layout and style of your website, visit [here](https://github.com/pages-themes/cayman).
+Follow instructions [here](https://github.com/pages-themes/cayman) to change the layout and style of your website!
 
 ![Step9](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Images/Capture9a.JPG)
