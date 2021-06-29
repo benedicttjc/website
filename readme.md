@@ -48,4 +48,3 @@ If you used the Cayman theme and want to design your website, visit [here](https
 Follow instructions here to change the layout and style of your website, visit [here](https://github.com/pages-themes/cayman).
 
 ![Step9](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Images/Capture9a.JPG)
-* * *
