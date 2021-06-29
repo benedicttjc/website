@@ -1,5 +1,5 @@
 ### Before starting
-This document assumes that the reader has a GitHub account.
+This document assumes that the reader has a GitHub account. With that, you are 8 clicks away from a new website!
 
 * * *
 ### Step 1
@@ -8,7 +8,7 @@ Go to the top right hand side of the page, click the arrow drop down, click "New
 ![Step1](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Images/Capture1b.JPG)
 * * *
 ### Step 2
-Under "Repository name", type your desired website name. At the bottom, press the green "Create repository" button.
+Under "Repository name", type your desired website name. At the bottom, click the green "Create repository" button.
 
 ![Step2](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Images/Capture2b.JPG)
 * * *
