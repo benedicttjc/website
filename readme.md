@@ -43,8 +43,9 @@ Well done! You website is now online. Type {YOUR_GITHUB_USERNAME}.github.io/{YOU
 ![Step8](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Images/Capture8a.JPG)
 * * *
 ### Visit your website
-If you used the Cayman theme and want to design your website, visit: https://github.com/pages-themes/cayman/blob/master/index.md
-Follow instructions here to change the layout and style of your website: https://github.com/pages-themes/cayman
+If you used the Cayman theme and want to design your website, visit [here](https://github.com/pages-themes/cayman/blob/master/index.md).
+
+Follow instructions here to change the layout and style of your website, visit [here](https://github.com/pages-themes/cayman).
 
 ![Step9](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Images/Capture9a.JPG)
 * * *
