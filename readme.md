@@ -20,7 +20,7 @@ Click "Settings".
 ### Step 4
 Click "Pages", then click "Choose a theme".
 
-![Step4](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Images/Capture4a.JPG)
+![Step4](https://raw.githubusercontent.com/benedicttjc/website/gh-pages/Images/Capture4b.JPG)
 * * *
 ### Step 5
 Select your preferred theme, click "Select theme".
